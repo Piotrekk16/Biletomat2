@@ -10,3 +10,9 @@ C:\Users\local\Desktop\AutBilet\ConsoleApplication1\ConsoleApplication1\obj\Debu
 C:\Users\local\Desktop\AutBilet\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\local\Desktop\AutBilet\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\local\Desktop\AutBilet\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Cw7\16\AutomatBiletowy1-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Piotrek\Desktop\Cw7\16\AutomatBiletowy1-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Piotrek\Desktop\Cw7\16\AutomatBiletowy1-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Piotrek\Desktop\Cw7\16\AutomatBiletowy1-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Piotrek\Desktop\Cw7\16\AutomatBiletowy1-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Piotrek\Desktop\Cw7\16\AutomatBiletowy1-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

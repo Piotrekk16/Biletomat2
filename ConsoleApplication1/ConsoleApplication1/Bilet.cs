@@ -10,5 +10,14 @@ namespace ConsoleApplication1
     {
         protected double cena;
         abstract public void ObliczCene(RodzajBiletu rodzaj);
+
+        public Bilet() { }
+
+        public double PodajCene()
+        {
+            return cena;
+        }
+
+        abstract public void Drukuj();
     }
 }

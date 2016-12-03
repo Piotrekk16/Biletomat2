@@ -11,9 +11,12 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            
+
+            Console.WriteLine("Dzien dobry");
             Aplikacja app = new Aplikacja();
             app.WykonajDzialanie();
+            Console.WriteLine("Do widzenia!");
+            Console.ReadKey();
         }
     }
 }
